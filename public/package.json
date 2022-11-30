@@ -1,5 +1,15 @@
 {
-  "name": "untitled1",
+  "name": "untitled",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "scripts": {},
+  "devDependencies": {}
+}
+{
+  "name": "untitled2",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
